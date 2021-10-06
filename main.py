@@ -82,4 +82,4 @@ async def raid(ctx, link, channel, message):
 
 
 
-bot.run('ODkzMTg2NzI2NDY0NDc1MjY2.YVXy9g.Y5vQ2gRyA4kZ4gFi5MYC3ovP11U')
+bot.run('Token-Here')
